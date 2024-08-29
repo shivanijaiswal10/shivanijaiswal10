@@ -1,9 +1,9 @@
-<h1 align="center"> Hola, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+<h1 align="center"> Hey, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
          width="45" /> I'm Shivani Jaiswal</h1>
 
-👋 Hi, I'm  an aspiring SDET (Software Development Engineer in Test) with a passion for quality assurance and test automation. With a strong foundation in both manual and automated testing, I am dedicated to ensuring that software is reliable, scalable, and bug-free.
+ I'm  an aspiring SDET (Software Development Engineer in Test) with a passion for quality assurance and test automation. With a strong foundation in both manual and automated testing, I am dedicated to ensuring that software is reliable, scalable, and bug-free.
 🔧 *Tech Stack:*
 - *Languages:* Python, Java, JavaScript
 - *Testing Frameworks:* Selenium, TestNG, JUnit
