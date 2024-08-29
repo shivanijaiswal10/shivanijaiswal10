@@ -1,3 +1,6 @@
+![140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70](https://github.com/user-attachments/assets/76c30b5f-30ae-4918-9ce8-2fab74c65e8e)
+
+
 <h1 align="center"> Hey, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
