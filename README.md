@@ -1,8 +1,15 @@
-- 👋 Hi, I’m shivani jaiswal
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I'm Shivani Jaiswal, an aspiring SDET (Software Development Engineer in Test) with a passion for quality assurance and test automation. With a strong foundation in both manual and automated testing, I am dedicated to ensuring that software is reliable, scalable, and bug-free.
+🔧 *Tech Stack:*
+- *Languages:* Python, Java, JavaScript
+- *Testing Frameworks:* Selenium, TestNG, JUnit
+- *CI/CD Tools:* Jenkins, GitLab CI/CD
+- *Version Control:* Git, GitHub
+- *Other Tools:* Postman, JIRA, Docker
+
+🚀 I'm always looking to learn and grow, and I'm excited to contribute to open-source projects and collaborate with other developers.
+
+- 👀 I’m interested in Quality Assuarance
+- 📫 How to reach me shivanijaiswal1011@gmail.com ,
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
