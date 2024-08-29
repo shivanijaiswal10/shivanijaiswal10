@@ -7,6 +7,10 @@
          width="45" /> I'm Shivani Jaiswal</h1>
 
  I'm  an aspiring SDET (Software Development Engineer in Test) with a passion for quality assurance and test automation. With a strong foundation in both manual and automated testing, I am dedicated to ensuring that software is reliable, scalable, and bug-free.
+ 
+![WhatsApp Video 2024-08-29 at 13 27 39_731f0144](https://github.com/user-attachments/assets/b960faf4-96ca-4ba4-a21c-fb9e257caaf4)
+
+ 
 🔧 *Tech Stack:*
 - *Languages:* Python, Java, JavaScript
 - *Testing Frameworks:* Selenium, TestNG, JUnit
