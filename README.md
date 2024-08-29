@@ -10,8 +10,8 @@
 
 - 👀 I’m interested in Quality Assuarance
 - 📫 How to reach me shivanijaiswal1011@gmail.com ,
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: Her
+- ⚡ Fun fact: Traveling
 
 <!---
 shivanijaiswal10/shivanijaiswal10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
