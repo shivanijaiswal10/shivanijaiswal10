@@ -88,7 +88,6 @@ I'm a **detail-oriented SDET** with experience designing scalable automation fra
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivanijaiswal1011&layout=compact&theme=radical" />
 </p>
-
 ---
 
 ## 🎯 Soft Skills & QA Philosophy
