@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hey, I'm Shivani Jaiswal</h1>
-<h3 align="center">🚀 SDET | Automation Enthusiast | Quality Advocate | CI/CD Explorer</h3>
+<h1 align="center">👋 Hello! I'm Shivani Jaiswal</h1>
+<h3 align="center">🚀 Passionate Software Development Engineer in Test (SDET) | QA Automation Specialist | CI/CD Practitioner</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shivani-jaiswal-a8875a321/" target="_blank">
@@ -8,93 +8,114 @@
   <a href="mailto:shivanijaiswal1011@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://github.com/shivanijaiswal1011">
+    <img src="https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I’m passionate about ensuring high-quality software through test automation and rigorous validation. With a strong background in both development and testing, I excel at writing efficient, maintainable test scripts and designing test frameworks that help ship robust, bug-free applications.
+I'm a **detail-oriented SDET** with experience designing scalable automation frameworks, executing end-to-end test plans, and ensuring the **highest product quality** in fast-paced Agile teams.
 
-- 🔭 I develop and maintain automation for web & mobile apps  
-- ⚙️ Experienced in Selenium, Appium, Rest Assured, Jenkins  
-- 🧠 Learning JMeter, AI/ML testing, and Security Testing  
-- 💬 Ask me about Quality Assurance and Automation Tools  
-- 😄 Pronouns: She/Her  
-- ⚡ Fun Fact: Traveling makes me feel alive!
+- 🔭 Currently working on **cross-platform test automation**
+- 🌱 Learning more about **performance testing, JMeter, AI/ML-based testing, and security testing**
+- 🧠 I believe in **automating smart, testing better, and delivering faster**
+- 🏆 Selenium | Appium | Rest Assured | Jenkins | JMeter
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skills & Technologies
 
-### 👩‍💻 Programming Languages:
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge)
-![HTML](https://img.shields.io/badge/HTML-E44D26?style=for-the-badge&logo=html5&logoColor=white)
-
-### 🧪 Automation & Testing:
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium)
-![Appium](https://img.shields.io/badge/Appium-00C7B7?style=for-the-badge)
-![RestAssured](https://img.shields.io/badge/RestAssured-black?style=for-the-badge)
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge)
+### 🔧 Automation Tools:
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Appium](https://img.shields.io/badge/Appium-00C7B7?style=for-the-badge&logo=appium&logoColor=white)
 ![TestNG](https://img.shields.io/badge/TestNG-FF6F00?style=for-the-badge)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge)
+![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge)
+
+### 🔬 API Testing:
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+![RestAssured](https://img.shields.io/badge/RestAssured-black?style=for-the-badge)
 
-### 🧰 Tools:
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+### 🔄 CI/CD:
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
----
-
-## 🔥 What I Do
-
-- ✅ Develop and maintain automated test scripts for web and mobile applications  
-- 🛠 Design and implement scalable frameworks (POM, data-driven, BDD)  
-- 🔁 Ensure smooth testing integration with CI/CD pipelines  
-- 🪲 Collaborate with developers to identify and resolve bugs early  
-- 📈 Promote testing best practices across teams
+### 💻 Languages & Tools:
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven)
+![GIT](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
-## 📈 Projects
+## 🚀 Projects That Make Me Proud
 
-- 🔹 **[E-Commerce Automation Framework](#)**  
-  Built a robust Selenium + TestNG framework for functional & regression testing of an e-commerce platform.
+### 🔹 [Selenium POM Framework](https://github.com/shivanijaiswal1011/Selenium-TestNG-Framework)
+> 🔸 Data-driven + POM  
+> 🔸 Extent reports + Excel utilities  
+> 🔸 Environment config support + logging
 
-- 🔹 **[API Testing Suite](#)**  
-  Developed Rest Assured-based API tests to validate various endpoints for a crypto wallet system.
+### 🔹 [Appium + Emulator Automation](https://github.com/shivanijaiswal1011/Appium-Framework)
+> 🔸 Native app testing with AVD integration  
+> 🔸 Config-driven execution and advanced gestures  
+> 🔸 Real device & emulator compatibility
 
----
-
-## 🌱 Currently Learning
-
-- 💥 Advanced performance and load testing with JMeter  
-- 🤖 AI/ML-driven testing techniques  
-- 🔐 Security testing for web and mobile platforms
-
----
-
-## 📬 How to Reach Me
-
-- 📫 Email: [shivanijaiswal1011@gmail.com](mailto:shivanijaiswal1011@gmail.com)  
-- 🔗 LinkedIn: [shivani-jaiswal-a8875a321](https://www.linkedin.com/in/shivani-jaiswal-a8875a321/)
+### 🔹 [RestAssured API Framework](https://github.com/shivanijaiswal1011/RestAssured-API-Testing)
+> 🔸 Request chaining, schema validation  
+> 🔸 Token handling, assertions, and test suites  
+> 🔸 Postman collection → Java automation migration
 
 ---
 
-## 📊 GitHub Stats
+## 📚 Skill Highlights & Learning Journey
+- 🛠️ Hands-on experience with Selenium WebDriver, Appium, TestNG, and Rest Assured through real-world projects
+- 🔍 Practical knowledge of API testing, web & mobile automation, and test design principles
+- 🧪 Actively enhancing skills in CI/CD tools like Jenkins and framework design best practices
+- 🌱 Continuously learning via YouTube tutorials, self-guided courses, and building personal testing frameworks
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shivanijaiswal1011&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=shivanijaiswal1011&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivanijaiswal1011&layout=compact&theme=radical" />
 </p>
 
 ---
 
-## ✨ Quote I Live By
+## 🎯 Soft Skills & QA Philosophy
+
+- 🧩 Analytical thinker & problem solver  
+- 🎯 Strong communication & teamwork  
+- 🏹 QA is not just testing — it's delivering **confidence**
+
+---
+
+## 💬 Let's Connect!
+
+<p align="center">
+  <a href="https://linkedin.com/in/shivani-jaiswal-a8875a321/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:shivanijaiswal1011@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/shivanijaiswal1011">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## ✨ Quote That Inspires Me
 
 > _“Quality is never an accident; it is always the result of intelligent effort.”_  
 > — John Ruskin
